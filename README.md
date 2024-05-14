@@ -1,4 +1,4 @@
-Ce répot contient le code source du backend de l'application KnowledgeCrunch. Cette application est un site web permettant de jouer à différents quizz. Il est composé d'une composante administrateur permettant la gestion de l'ensemble,
+Ce répot contient le code source du backend de l'application MyQuizz. Cette application est un site web permettant de jouer à différents quizz. Il est composé d'une composante administrateur permettant la gestion de l'ensemble,
 et d'une composante utilisateur permettant de jouer aux différents quizz.
 
 Il y a plusieurs étapes à suivre afin de démarrer le backend :
